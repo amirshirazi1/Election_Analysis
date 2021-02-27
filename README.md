@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election-Audit Challenge
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election.
@@ -18,7 +18,7 @@ Following these tasks, the Colorado Board of Elections employee had asked us to 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.53.2
-- Candidate election audit results referenced from the README file made during the module work: [MODULE_README](Module Work/MODULE_README.md)
+- Candidate election audit results referenced from the README file made during the module work: [MODULE_README](Module Work/README.md)
 
 ## Election-Audit Results
 - There were 369,711 votes cast in this congressional election in this precinct.
@@ -26,6 +26,7 @@ Following these tasks, the Colorado Board of Elections employee had asked us to 
   - In this precinct, Jefferson county accounted for 10.5% of the vote and 38,855 total votes.
   - In this precinct, Denver county accounted for 82.8% of the vote and 306,055 total votes.
   - In this precinct, Arapahoe county accounted for 6.7% of the vote and 24,801 total votes.
+  
 County vote totals and percentages found using code on lines 94-100:
 ```
 for county_name in county_votes:
@@ -38,6 +39,7 @@ for county_name in county_votes:
 ```
 
 - In this precinct, Denver county saw the highest voter turnout.
+
 Highest voter turnout county determined by using code on lines 110-113:
 ```
 # 6f: Write an if statement to determine the winning county and get its vote count.
