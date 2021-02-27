@@ -18,7 +18,7 @@ Following these tasks, the Colorado Board of Elections employee had asked us to 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.53.2
-- Candidate election audit results referenced from the README file made during the module work: [MODULE_README](Module Work/README.md)
+- Candidate election audit results referenced from the README file made during the module work: [MODULE README](https://github.com/amirshirazi1/Election_Analysis/blob/main/Module%20Work/README.md)
 
 ## Election-Audit Results
 - There were 369,711 votes cast in this congressional election in this precinct.
