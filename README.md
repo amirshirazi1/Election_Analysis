@@ -59,6 +59,7 @@ if (county_total > largest_turnout):
   - Diana DeGette - who had received 73.8% of the vote and 272,892 votes.
 
 Results matched from [election_results.txt](analysis/election_results.txt)
+
 ![Election Results](analysis/Images/election_results_screenshot.png)
 
 ## Election-Audit Challenge Summary
